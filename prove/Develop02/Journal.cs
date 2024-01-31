@@ -1,5 +1,3 @@
-using System.Text.Json;
-
 public class Journal
 {
     private List<Entry> _entries = new();
